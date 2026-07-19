@@ -1,4 +1,3 @@
-# AeroStay-AI---Multi-Agent-Travel-planner
 # ✈️ AeroStay-AI: Multi-Agent Travel Planner 🏨
 
 [![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](#)
